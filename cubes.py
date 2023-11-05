@@ -25,7 +25,7 @@ while end_game_answer == "" or end_game_answer == "1":
     your_first__cub_result = random.choice([1, 2, 3, 4, 5, 6])
     your_second__cub_result = random.choice([1, 2, 3, 4, 5, 6])
     print(your_first__cub_result, your_second__cub_result)
-    print("Результат компютера: ")
+    print("Результат комп'ютера: ")
     computer_first__cub_result = random.choice([1, 2, 3, 4, 5, 6])
     computer_second__cub_result = random.choice([1, 2, 3, 4, 5, 6])
     print(computer_first__cub_result, computer_second__cub_result)
